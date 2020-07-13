@@ -129,7 +129,7 @@
    	<div class="row">
 		<div class="col-md-6">
         <p class="section--paragraph__tittle"><?php echo $l->t('Why metadata and self hosting matter');?></p>
-            <p class="section--paragraph"><?php echo $l->t('Metadata, often described as everything except the content of your communications, has less legal protections but can be incredibly revealing. From a list of who somebody talks to and when, much can be inferred!');?> <a class="hyperlink" href="https://ssd.eff.org/en/module/why-metadata-matters"><?php echo $l->t('The Electronic Frontier Foundation explains it well on their site.');?></a></p>
+            <p class="section--paragraph"><?php echo $l->t('Metadata, often described as everything except the content of your communications, has fewer legal protections but can be incredibly revealing. From a list of who somebody talks to and when, much can be inferred!');?> <a class="hyperlink" href="https://ssd.eff.org/en/module/why-metadata-matters"><?php echo $l->t('The Electronic Frontier Foundation explains it well on their site.');?></a></p>
 		</div>
         <div class="col-md-6">
             <p class="section--paragraph"><?php echo $l->t('Of course, service providers might promise not to store and track such meta data, but governments can simply force them if need be. For example, in the UK providers have been forced to record the website visits of their customers.');?> <a target="_blank" href="https://techcrunch.com/2016/11/29/yes-the-uk-now-has-a-law-to-log-web-users-browsing-behavior-hack-devices-and-limit-encryption/" class="hyperlink"><?php echo $l->t('Read about it on Techcrunch.');?></a></p>
